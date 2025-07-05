@@ -1,3 +1,3 @@
 # test
 - this is testing
-- edited by timdonor
+- Edited by Alex Spencer
